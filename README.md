@@ -1,0 +1,3 @@
+# Persistence-Frameworks-JPA-Hibernate
+Overview of ORM paradigms, implementing entity classes and repositories, persisting data, querying with.......
+Using important Hibernate annotation to design a database table(entity) with atleast 10 fields
